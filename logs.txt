@@ -1,0 +1,17 @@
+{"level":"info","message":"Request Url: / - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:37:18.472Z"}
+{"level":"info","message":"Request Url: /all - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:37:25.600Z"}
+{"level":"info","message":"Request Url: / - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:37:42.639Z"}
+{"level":"info","message":"Request Url: / - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:37:55.572Z"}
+{"level":"info","message":"Request Url: /1 - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:38:15.579Z"}
+{"level":"info","message":"Request Url: /toggle/1 - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:38:28.876Z"}
+{"level":"info","message":"Request Url: / - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:38:35.427Z"}
+{"level":"info","message":"Request Url: /1 - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:38:39.218Z"}
+{"level":"info","message":"Request Url: /toggle/1 - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:38:45.917Z"}
+{"level":"info","message":"Request Url: /1 - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:38:52.123Z"}
+{"level":"info","message":"Request Url: /toggle/1 - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:39:16.325Z"}
+{"level":"info","message":"Request Url: /all - Request Body: {\"email\":\"raosahab@gmail.com\",\"password\":\"rao\"}","service":"request-logging","timestamp":"2023-11-09T04:39:22.990Z"}
+{"level":"info","message":"Request Url: /1 - Request Body: {\"content\":\"Cool Brother\"}","service":"request-logging","timestamp":"2023-11-09T04:39:45.541Z"}
+{"level":"info","message":"Request Url: /toggle/1 - Request Body: {\"content\":\"Cool Brother\"}","service":"request-logging","timestamp":"2023-11-09T04:39:56.952Z"}
+{"level":"info","message":"Request Url: /1 - Request Body: {\"content\":\"Cool Brother\"}","service":"request-logging","timestamp":"2023-11-09T04:40:03.737Z"}
+{"level":"info","message":"Request Url: /all - Request Body: {\"content\":\"Cool Brother\"}","service":"request-logging","timestamp":"2023-11-09T04:40:15.630Z"}
+{"level":"info","message":"Request Url: /all - Request Body: {\"content\":\"Cool Brother\"}","service":"request-logging","timestamp":"2023-11-09T04:40:21.749Z"}
